@@ -1,0 +1,20 @@
+{
+  "prompts": [
+    {
+      "title": "Sunset Dreams",
+      "prompt": "Create an image inspired by the colors of a beautiful sunset."
+    },
+    {
+      "title": "Enchanted Forest",
+      "prompt": "Design a mystical forest scene with magical creatures."
+    },
+    {
+      "title": "Cityscape Adventures",
+      "prompt": "Illustrate a bustling cityscape filled with futuristic technology."
+    },
+    {
+      "title": "Underwater Odyssey",
+      "prompt": "Paint an underwater world teeming with marine life and coral reefs."
+    }
+  ]
+}
